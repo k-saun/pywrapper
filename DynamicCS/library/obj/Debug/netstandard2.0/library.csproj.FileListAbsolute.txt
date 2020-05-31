@@ -1,0 +1,9 @@
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/bin/Debug/netstandard2.0/library.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/bin/Debug/netstandard2.0/library.pdb
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/obj/Debug/netstandard2.0/library.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/DynamicCS/library/obj/Debug/netstandard2.0/library.pdb

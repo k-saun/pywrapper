@@ -1,0 +1,9 @@
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/obj/x64/ReleaseMono/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/bin/Python.EmbeddingTest.pdb
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/bin/Python.EmbeddingTest.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/obj/x64/ReleaseMono/Python.EmbeddingTest.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/obj/x64/ReleaseMono/Python.EmbeddingTest.pdb
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/bin/nunit.framework.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/bin/Python.Runtime.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/bin/Python.Runtime.pdb
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/embed_tests/bin/Python.Runtime.xml

@@ -1,0 +1,8 @@
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/obj/x64/ReleaseMono/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/bin/Python.Test.pdb
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/bin/Python.Test.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/obj/x64/ReleaseMono/Python.Test.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/obj/x64/ReleaseMono/Python.Test.pdb
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/bin/Python.Runtime.dll
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/bin/Python.Runtime.pdb
+/Users/keegansaunders/Documents/HP/cs_to_py/pyCalc/pythonnet-2.4.0/src/testing/bin/Python.Runtime.xml
